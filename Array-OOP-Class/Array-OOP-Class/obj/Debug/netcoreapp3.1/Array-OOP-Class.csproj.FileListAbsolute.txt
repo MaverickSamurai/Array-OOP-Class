@@ -1,0 +1,14 @@
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\bin\Debug\netcoreapp3.1\Array-OOP-Class.exe
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\bin\Debug\netcoreapp3.1\Array-OOP-Class.deps.json
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\bin\Debug\netcoreapp3.1\Array-OOP-Class.runtimeconfig.json
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\bin\Debug\netcoreapp3.1\Array-OOP-Class.runtimeconfig.dev.json
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\bin\Debug\netcoreapp3.1\Array-OOP-Class.dll
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\bin\Debug\netcoreapp3.1\Array-OOP-Class.pdb
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.csproj.AssemblyReference.cache
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.AssemblyInfoInputs.cache
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.AssemblyInfo.cs
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.csproj.CoreCompileInputs.cache
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.dll
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.pdb
+C:\Users\mirsamirba\Desktop\Array-OOP-Class\Array-OOP-Class\Array-OOP-Class\obj\Debug\netcoreapp3.1\Array-OOP-Class.genruntimeconfig.cache
